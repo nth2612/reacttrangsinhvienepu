@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "title" : "Link ảnh Lễ tốt nghiệp trường Đại học Điện lực năm 2022",
+        "date" : "05-10-2022"
+    },
+    {
+        "id" : 2,
+        "title" : "Thông báo về kế hoạch giảng dạy từ ngày 01/3/2022",
+        "date" : "28-02-2022"
+    },
+    {
+        "id" : 3,
+        "title" : "Thông báo \"Danh sách sinh viên quá hạn đào tạo\"",
+        "date" : "21-12-2021"
+    },
+    {
+        "id" : 4,
+        "title" : "Thông báo: Đăng ký môn học học kỳ II năm học 2021-2022",
+        "date" : "22-11-2021"
+    },
+    {
+        "id" : 5,
+        "title" : "Thông báo v/v cấp giấy xác nhận sinh viên đang học",
+        "date" : "25-10-2021"
+    },
+    {
+        "id" : 6,
+        "title" : "Liên hệ hỗ trợ trực tuyến",
+        "date" : "11-10-2021"
+    },
+    {
+        "id" : 7,
+        "title" : "Thông báo v/v tổ chức đăng ký môn học học kỳ I năm học 2021-2022",
+        "date" : "16-06-2021"
+    },
+    {
+        "id" : 8,
+        "title" : "Thông báo v/v cài đặt ứng dụng VssID - BHXH số",
+        "date" : "22-04-2021"
+    },
+    {
+        "id" : 9,
+        "title" : "V/v buộc thôi học SV vượt quá số lần cảnh báo học tập và nghỉ học dài ngày không lý do",
+        "date" : "17-03-2021"
+    },
+    {
+        "id" : 10,
+        "title" : "Thông báo v/v nộp học phí ĐKMH tự động HK 2 năm học 2020-2021 đối với Sinh viên ĐHCQ, CĐCQ",
+        "date" : "03-03-2021"
+    },
+    {
+        "id" : 11,
+        "title" : "Thông báo tổ chức đăng ký chuyên ngành cho sinh viên D15",
+        "date" : "05-01-2021"
+    },
+    {
+        "id" : 12,
+        "title" : "Thông báo tổ chức đăng ký môn học kỳ 2 năm 2020-2021",
+        "date" : "13-11-2020"
+    }
+]
